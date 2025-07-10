@@ -1,3 +1,4 @@
+//WE ARE USING JNI(JAVA NATIVE INTERFACE) IN ORDER TO USE CPP CODE IN JAVA
 public class Ch{
 public native void myimprt();
 static{
